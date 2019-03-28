@@ -46,7 +46,7 @@
   以下より「version 2018.2.13」のUnityインストーラをダウンロードします。<br>
 （最新版では未検証・動作不安定のため「version 2018.2.13f1」をダウンロード下さい）<br>
 　**ダウンロードURL：**<https://unity3d.com/jp/get-unity/download/archive> <br>
-　**ダウンロードファイル：**UnityDownloadAssistant-2018.2.13f1.exe
+　**ダウンロードファイル：** UnityDownloadAssistant-2018.2.13f1.exe
 
 ##### (2) インストール
 　・UnityDownloadAssistant-2018.2.13f1.exeを起動します。<br>
